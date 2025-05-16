@@ -1,4 +1,4 @@
-[+] Đăng xuất tài khoản Cursor trên app.
-[+] Kill app cursor 
-[+] Chạy code python ./main.py 
-[+] Mở cursor và login tài khoản mới
+[x] Đăng xuất tài khoản Cursor trên app.
+[x] Kill app cursor 
+[x] Chạy code python ./main.py 
+[x] Mở cursor và login tài khoản mới
